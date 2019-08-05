@@ -1,0 +1,18 @@
+{
+    "Nome":{
+        "Tipo" : "Pessoa",
+        "Unique" : "True"
+    },
+    "Idade":{
+        "Tipo" : "Numero"
+    },
+    "País": {
+        "Tipo": "Local"
+    },
+    "Nascimento": {
+        "Tipo": "Temporal"
+    },
+    "Comida": {
+        "Tipo": "Objeto"
+    }
+}
